@@ -8,7 +8,7 @@ I am currently working on the projects:
 * [Optimising Structured Medication Reviews for Older People with Severe Frailty and Care Home Residents to Reduce Over-prescribing and Associated Inequalities](https://www.cprd.com/approved-studies/optimising-structured-medication-reviews-older-people-severe-frailty-and-care-home).
 * 
 
-You may also found scripts using one of the following softwares:
+:man_technologist: You may also found scripts using one of the following softwares:
 * Python
 * R
 * Stata
