@@ -2,13 +2,13 @@
 
 I am the Leeds Institute of Health Sciences and Bradford Institute for Health Research repository.
 
-I provide medical code lists, MedCodeId, Read codes, Systemized Nomenclature of Medicine – Clinical Terms (SNOMED-CT), and International Classification of Diseases - 10 (ICD-10), for their different projects.
+I provide medical code lists such as MedCodeId, Read codes, Systemized Nomenclature of Medicine – Clinical Terms (SNOMED-CT), International Classification of Diseases - 10 (ICD-10), and British National Formulary (BNF), for different projects.
 
 I am currently working on the projects:
 * [Optimising Structured Medication Reviews for Older People with Severe Frailty and Care Home Residents to Reduce Over-prescribing and Associated Inequalities](https://www.cprd.com/approved-studies/optimising-structured-medication-reviews-older-people-severe-frailty-and-care-home).
 * [Can Ambulatory Blood Pressure Measures Inform Shared Treatment Decisions in Hypertension For Older Adults Who Are At Risk Of Falls?](https://fundingawards.nihr.ac.uk/award/NIHR303219)
 
-:man_technologist: You may also found scripts using one of the following softwares:
+You may also found scripts using one of the following softwares:
 * Python
 * R
 * Stata
